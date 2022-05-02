@@ -1,5 +1,4 @@
 body {
-    padding-top: 60px;
     background-color: rgb(35,33,33);
 }
 *
@@ -11,4 +10,17 @@ body {
     padding-top: 10px;
     margin-bottom: 10px;
     text-align: center;
+}
+#C{
+    color: linear-gradient(#e66465, #a86bf2);
+
+}
+#a1{
+    color: rgb(255,201,71);
+}
+#r{
+    color: rgb(71,176,254);
+}
+#a2{
+    color: rgb(255,72,79);
 }
