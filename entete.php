@@ -17,7 +17,7 @@ session_start();?>
 <body >
 <header id="heads" class="pb-4">
     <nav id="navb" class="navbar navbar-expand-md fixed-top navbar-dark bg-dark" style="background-color: rgb(38,41,45);">
-        <img src="images/logo.png" class="ml-5 mr-2" alt="petit logo d'en haut" style="width: 5%; height: 5%;">
+        <img src="images/Cara_logo.png" class="ml-5 mr-2" alt="petit logo d'en haut" style="width: 5%; height: 5%;">
         <a class="navbar-brand" href="#">
 
             <span class="bg-gradient bg-light p-1 rounded text-dark" id="spanb">Projet</span> Transdisciplinaire</a>
@@ -28,7 +28,7 @@ session_start();?>
         <div class="collapse navbar-collapse" id="navbarColor01">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Présentation<span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="presentation.php">Présentation<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Expérimentations</a>
