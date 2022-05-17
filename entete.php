@@ -18,7 +18,7 @@ session_start();?>
 <header id="heads" class="pb-4">
     <nav id="navb" class="navbar navbar-expand-md fixed-top navbar-dark bg-dark" style="background-color: rgb(38,41,45);">
         <img src="images/Cara_logo.png" class="ml-5 mr-2" alt="petit logo d'en haut" style="width: 5%; height: 5%;">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="index.php">
 
             <span class="bg-gradient bg-light p-1 rounded text-dark" id="spanb">Projet</span> Transdisciplinaire</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
