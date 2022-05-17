@@ -28,7 +28,8 @@
         <br/>
         <h3>Avant l’expérience</h3>
         <p>Avant de commencer l’expérience, les participants sont tenus au courant du déroulement de cette dernière. Il leur est rappelé que ce ne sont pas leurs performances qui sont jugées mais celles des claviers virtuels. Un rappel est également fait sur la protection de leurs données, qui seront anonymisées et qui ne serviront que pour les résultats de nos expériences. Ils devront signer un formulaire de consentement quant à l’utilisation de leurs données ainsi que remplir un questionnaire de pré-expérience sur un ordinateur mis à leur disposition. Une grille, montrée ci-dessous, permettant de juger du stress, de la somnolence et des sentiments agréables est présente sur la table et devra être expliquée aux sujets afin qu’ils puissent évaluer leurs niveaux de stress.</p>
-
+        <img class="image" src="images/Grille.png" alt="Grille permettant de juger notre état de fatigue, stress et d'excitation"/>
+        <br/>
         <h3>Installation</h3>
         <p>Avant de débuter l’expérience, le participant est installé sur un siège face à un écran, afin qu’il soit à une distance d’environ 100 cm de celui-ci. On place ensuite le casque EEG sur le crâne du participant, en vérifiant qu’il est bien centré. L’électrode Cz doit être positionnée à distance égale de la nuque et de la base des sourcils. Puis, afin que les électrodes adhèrent au cuir chevelu et afin d’avoir un bon signal, on insère du gel dans les trous au niveau des électrodes à l’aide d’une seringue, et on place l’électrode de référence au niveau du lobe de l’oreille.</p>
 
