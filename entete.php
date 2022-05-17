@@ -31,16 +31,16 @@ session_start();?>
                     <a class="nav-link" href="presentation.php">Présentation<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Expérimentations</a>
+                    <a class="nav-link" href="experimentation.php">Expérimentations</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Analyses des tests</a>
+                    <a class="nav-link" href="result.php">Résultats</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Résultats</a>
+                    <a class="nav-link" href="gestion.php">Gestion de projet</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Conclusion</a>
+                    <a class="nav-link" href="conclusion.php">Conclusion</a>
                 </li>
             </ul>
             <form class="form-inline">

@@ -12,13 +12,19 @@
 
 <div  class=container>
 
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+<div style = "width:800px; text-align:center ; margin:auto ;display:flex" id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="images/Cara_logo.png" alt="Découvrir notre projet">
+      <img class="d-block w-100" style="width:75%;" src="images/Cara_logo_petit.png" alt="Découvrir notre projet">
+      <div class="carousel-caption d-none d-md-block">
+        <a href="presentation.php"  role='button' aria-pressed='true' >En savoir plus ...</a>
+      </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="images/casque.jpg" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block">
+        <a href="experimentation.php"  role='button' aria-pressed='true'>Voir les expérimentations ...</a>
+      </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -30,6 +36,8 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+</br>
 
 <div class="text-center" style="background-color: rgb(38,41,45)"><h1> Qui sommes-nous ?</div>
 </br>
