@@ -71,7 +71,7 @@
   <div style="background-color: rgb(38,41,45) ;" class="card">
     <img class="card-img-top" src="images/Le Gall_Maiwen.jpg" alt="Image Juliette">
     <div class="card-body">
-      <h5 class="card-title">Maiwen Le Gall</h5>
+      <h5 class="card-title">Maïwenn Le Gall</h5>
       <p class="card-text">Elève à l'ENSC, groupe 4.</p>
     </div>
   </div>
