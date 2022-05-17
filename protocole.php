@@ -6,26 +6,26 @@
     <br>
     <br>
     <div class=container>
-    <h1>Protocole expérimental Cara</h1>
-
+    <h1 class="text-center">Protocole expérimental Cara</h1>
+    <br/>
     <p>
         Ce protocole est réalisé dans le but de comparer les résultats des performances BCI de deux claviers virtuels : le premier composé d’images neutres et le second d’une photo de célébrité. 
         Pour cela les expériences se déroulent dans la Forge, un bâtiment de l’Ecole Nationale Supérieure de Cognitique (ENSC) et sont réalisées par 5 étudiants en première année qui forment l’équipe de ce projet.
     </p>
-
+    <br/>
     <section>
         <h2>Sujets et matériel</h2>
-
+        <br/>
         <h3>Sujets</h3>
         <p>Ces expériences sont effectuées par une douzaine de participants, étudiants eux aussi à l’ENSC. Ils doivent avoir une vue normale ou corrigée leur permettant de distinguer les couleurs. Il est également préférable qu’ils n’aient jamais participé à des expériences BCI auparavant. </p>
 
         <h3>Matériels</h3>
         <p>L’expérience a lieu dans le bâtiment de la Forge à l’ENSC dans une salle équipée d’EEG ainsi que d’un ordinateur. L’expérience s’effectue à l’aide du logiciel UMA BCI-Speller qui a permis l’élaboration des claviers de taille 5x5 et qui permet également de pouvoir les tester. </p>
     </section>
-
+    <br/>
     <section>
         <h2>Déroulement de l’expérience</h2>
-
+        <br/>
         <h3>Avant l’expérience</h3>
         <p>Avant de commencer l’expérience, les participants sont tenus au courant du déroulement de cette dernière. Il leur est rappelé que ce ne sont pas leurs performances qui sont jugées mais celles des claviers virtuels. Un rappel est également fait sur la protection de leurs données, qui seront anonymisées et qui ne serviront que pour les résultats de nos expériences. Ils devront signer un formulaire de consentement quant à l’utilisation de leurs données ainsi que remplir un questionnaire de pré-expérience sur un ordinateur mis à leur disposition. Une grille, montrée ci-dessous, permettant de juger du stress, de la somnolence et des sentiments agréables est présente sur la table et devra être expliquée aux sujets afin qu’ils puissent évaluer leurs niveaux de stress.</p>
 
@@ -61,8 +61,10 @@
         La grille est également montrée entre chaque clavier. <br/>
         <br/>
         Une pause d’au moins 5 minutes entre les deux claviers est obligatoire.</p>
-        
-        <h3>Après l’expérience</h3>
+    </section>
+    <br/>
+    <section>
+        <h2>Après l’expérience</h2>
         <p>Une fois le second clavier passé et le score de satisfaction obtenu, le sujet passe un questionnaire post expérience depuis un ordinateur mis à sa disposition. Ce questionnaire est à faire dans la salle d’expérience aux côtés des examinateurs.
         Une fois le dernier questionnaire rempli, le sujet a le droit à des chocolats et peut partir.</p>
     </section>
