@@ -16,37 +16,50 @@ session_start();?>
 
 <body >
 <header id="heads" class="pb-4">
-    <nav id="navb" class="navbar navbar-expand-md fixed-top navbar-dark bg-dark" style="background-color: rgb(38,41,45);">
-        <img src="images/Cara_logo.png" class="ml-5 mr-2" alt="petit logo d'en haut" style="width: 5%; height: 5%;">
-        <a class="navbar-brand" href="index.php">
+    <nav id="navb" class="navbar navbar-expand-md fixed-top navbar-dark " style="background-color: rgb(38,41,45);">
+        <div class="container">
+            <div class="col-9 align-middle">
 
-            <span class="bg-gradient bg-light p-1 rounded text-dark" id="spanb">Projet</span> Transdisciplinaire</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+                <a href="index.php">
+                    <img src="images/Cara_logo.png" alt="Logo cara haut page" class="me-2" style="height: 48px; padding-bottom: 1%;">
+                </a>
+                &nbsp;
+                <a class="navbar-brand rounded-3 fw-bold" href="index.php" id="baliseb">
+                    <span class="bg-gradient bg-light p-1 rounded rounded-3 text-dark" id="spanb">Projet</span> Transdisciplinaire
+                </a>
 
-        <div class="collapse navbar-collapse" id="navbarColor01">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="presentation.php">Présentation<span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="experimentation.php">Expérimentations</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="result.php">Résultats</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="gestion.php">Gestion de projet</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="conclusion.php">Conclusion</a>
-                </li>
-            </ul>
-            <form class="form-inline">
-                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
-                <button class="btn btn-outline-info my-2 my-sm-0" type="submit">Search</button>
-            </form>
+
+            </div>
+
+            <div class="col-2">
+                <div class="dropdown dropdown-dark">
+                    <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton1"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                        Naviguer sur le site
+                    </button>
+                    <ul class="dropdown-menu dropdown-menu-dark bg-dark" aria-labelledby="dropdownMenuButton1">
+                        <li class="nav-item bg-dark">
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="presentation.php">Présentation</a>
+                        </li>
+                        <li class="nav-item bg-dark">
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Expérimentations</a>
+                        </li>
+                        <li class="nav-item bg-dark">
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Analyses des tests</a>
+                        </li>
+                        <li class="nav-item bg-dark">
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Résultats</a>
+                        </li>
+                        <li class="nav-item bg-dark">
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Conclusion</a>
+                        </li>
+                        <div class="dropdown-divider bg-light "></div>
+                        <li class="nav-item bg-dark">
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Nous contacter</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </nav>
 </header>
