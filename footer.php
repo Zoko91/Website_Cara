@@ -3,7 +3,7 @@
 <footer>
     <div class="container-fluid bg-dark">
         <div class="row">
-            <div class="col text-center">Footer en développement</div>
+            <div class="col text-center">Made with ❤ by the CaraTeam</div>
         </div>
     </div>
 </footer>

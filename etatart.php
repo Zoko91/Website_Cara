@@ -166,6 +166,24 @@ C’est pourquoi dans notre présente étude, nous utiliserons pour le clavier a
     }
 
 }
+else{
+    ?>
+    </br>
+</br>
+Notre état de l'art a couvert les études anciennement faites en lien avec les BCI et le type et couleur des stimulus utilisés.
+Nous avons cherché ce qu'était précisément un P-300 speller, de même que nous sommes allés chercher de la documentation sur le UMA-BCI speller.
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<?php
+}
 
 
 ?>
