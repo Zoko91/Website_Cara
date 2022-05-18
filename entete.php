@@ -45,7 +45,7 @@ session_start();?>
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="etatart.php">Etat de l'art</a>
                         </li>
                         <li class="nav-item bg-dark">
-                            <a class="nav-link  dropdown-item  text-white bg-dark" href="">Expérimentations</a>
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="protocole.php">Expérimentations</a>
                         </li>
                         <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Analyses des tests</a>

@@ -5,7 +5,18 @@
 <br>
 <br>
 <div class=container>
-<h3 class="text-center"> Qu'est-ce qu'une interface cerveau-machine ? </h3>
+<h3 class="text-center">Notre projet </h3>
+<p>
+Commanditée par M. Ricardo Ron Angevin, chercheur travaillant à Malaga en Espagne et ayant pour domaine de prédilection les interfaces cerveau-machine (BCI), cette étude repose sur l’utilisation du BCI P300-Speller, dont nous disposons d’un exemplaire dans le bâtiment technique de l’école (communément appelé la “forge”).
+</p>
+<p>
+Les BCI permettent via un casque EEG (électroencéphalogramme) d'afficher des lettres à l'aide d'un clavier virtuel.
+</p>
+<p>
+Cependant, l'utilisation d'un casque BCI n’est pas infaillible, et est donc toujours en cours de développement. Ainsi, en 2011, des recherches menées par Kaufman et al ont montré que l’utilisation d’images de célébrités remplaçant les flashs lumineux avait un impact positif sur les performances du dispositif, et la même conclusion a été observée par Álvaro Fernández-Rodríguez et al en 2019 avec l’utilisation d’images neutres.
+C’est ce désir de comparer les deux méthodes qui a donné naissance au projet Cara.
+</p>
+<h3 class="text-center"> Qu'est-ce qu'une interface cerveau-machine (BCI)? </h3>
 
 <div class=row>
     <div class=col>
@@ -26,7 +37,7 @@
 </br>
 </br>
 
-<h3 class="text-center">Etat de l'art </h3>
+
 
 
 
