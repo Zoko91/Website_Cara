@@ -29,8 +29,9 @@
             Zhang et al. (2021), les résultats sont meilleurs lorsque le fond de l’image est blanc. Ainsi, nous avons opté pour un 
             visage d’Obama rouge sur fond blanc, comme stimulus.
         </p>
-        <p class="text-center"><em> Figure 1 : Clavier avec “photo de célébrité”</em></p>
+        
         <img class="image" src="images/clavierceleb.png" alt="Capture d'écran du clavier avec une image de célébrité"/>
+        <p class="text-center"><em> Figure n°1 : Clavier avec “photo de célébrité”</em></p>
         <br/>
         <p>
             Le second clavier, appelé “Clavier images neutres”, présente des lettres blanches sur fond noir, et lorqu’une colonne ou 
@@ -42,8 +43,9 @@
             suffisante, tout en gardant un maximum de lettres de l’alphabet. Les images ont une dimension de 2x3.
         </p>
         <br/>
-        <p class="text-center"> <em>Figure 2 : Clavier avec images “neutres”</em></p>
         <img class="image" src="images/clavierneutre.png" alt="Capture d'écran du clavier avec une image neutre"/>
+        <p class="text-center"> <em>Figure n°2 : Clavier avec images “neutres”</em></p>
+
     </div>
-    <?php include("footer.php") ?>
+    
 <body>
