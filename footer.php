@@ -1,9 +1,9 @@
 <br>
 <br>
 <footer>
-    <div class="container-fluid bg-dark">
+    <div class="container-fluid bg-dark position-fixed bottom-0 p-2">
         <div class="row">
-            <div class="col text-center">Footer en développement</div>
+            <div class="col text-center"> Fait avec <i class="fa-solid fa-hand-holding-heart"></i> par L'équipe du Projet Cara.</div>
         </div>
     </div>
 </footer>

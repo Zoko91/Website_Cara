@@ -22,13 +22,6 @@ body {
     background-color: rgb(35,33,33);
 
 }
-
-.footer {
-    border-top: 1px solid #ccc;
-    padding-top: 10px;
-    margin-bottom: 10px;
-    text-align: center;
-}
 .button:hover{
     /* background: linear-gradient(, );*/
     --x: 100%;
@@ -106,5 +99,13 @@ table {
     border: 1px solid white;
     padding:2%;
   }
+
+/*footer {
+    border-top: 1px solid #ccc;
+    text-align: center;
+    background:#ccc;
+    position:absolute !important;
+    bottom:0;
+}*/
 
   
