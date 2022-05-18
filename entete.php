@@ -39,10 +39,13 @@ session_start();?>
                     </button>
                     <ul class="dropdown-menu dropdown-menu-dark bg-dark" aria-labelledby="dropdownMenuButton1">
                         <li class="nav-item bg-dark">
-                            <a class="nav-link  dropdown-item  text-white bg-dark" href="presentation.php">Présentation</a>
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="presentation.php">Présentation du projet</a>
                         </li>
                         <li class="nav-item bg-dark">
-                            <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Expérimentations</a>
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="etatart.php">Etat de l'art</a>
+                        </li>
+                        <li class="nav-item bg-dark">
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="">Expérimentations</a>
                         </li>
                         <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Analyses des tests</a>
