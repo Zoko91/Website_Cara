@@ -48,7 +48,7 @@ session_start();?>
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="protocole.php">Expérimentations</a>
                         </li>
                         <li class="nav-item bg-dark">
-                            <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Analyses des tests</a>
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="questionnaires.php">Analyses des questionnaires</a>
                         </li>
                         <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Résultats</a>
@@ -57,7 +57,7 @@ session_start();?>
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="gestion.php">Gestion de Projet</a>
                         </li>
                         <li class="nav-item bg-dark">
-                            <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Conclusion</a>
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="conclusion.php">Conclusion</a>
                         </li>
                         <div class="dropdown-divider bg-light "></div>
                         <li class="nav-item bg-dark">
