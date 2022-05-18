@@ -187,5 +187,6 @@ Nous avons cherché ce qu'était précisément un P-300 speller, de même que no
 
 
 ?>
-<?php include("footer.php") ?>
 </div>
+<?php include("footer.php") ?>
+
