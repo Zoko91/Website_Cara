@@ -107,5 +107,10 @@ table {
     position:fixed !important;
     bottom:0;
 }
+hr{
+    height: 3px;
+    background-color: white;
+    border: none;
+}
 
   
