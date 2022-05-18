@@ -100,12 +100,12 @@ table {
     padding:2%;
   }
 
-/*footer {
+footer {
     border-top: 1px solid #ccc;
     text-align: center;
     background:#ccc;
-    position:absolute !important;
+    position:fixed !important;
     bottom:0;
-}*/
+}
 
   
