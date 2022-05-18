@@ -14,7 +14,7 @@ session_start();?>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 </head>
 
-<body >
+<body>
 <header id="heads" class="pb-4">
     <nav id="navb" class="navbar navbar-expand-md fixed-top navbar-dark " style="background-color: rgb(38,41,45);">
         <div class="container">
@@ -52,6 +52,9 @@ session_start();?>
                         </li>
                         <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Résultats</a>
+                        </li>
+                        <li class="nav-item bg-dark">
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="gestion.php">Gestion de Projet</a>
                         </li>
                         <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Conclusion</a>
