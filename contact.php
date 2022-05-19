@@ -10,10 +10,10 @@
         <fieldset class="border border-light border-2 rounded">
             <form role="form" id="formParag" class="px-4 py-3" method="post">
                 <label for="email">Votre email</label>
-                <input type="email" style="width: 330px" class="border-danger" name="email" id="email" required><br>
+                <input type="email" style="width: 100%" class="border-danger" name="email" id="email" required><br>
                 <br/>
                 <label>Message</label><span>  </span>
-                <textarea name="message" class="border-danger" id="message" style="height:100px; width: 330px;color: black;" required></textarea><br>
+                <textarea name="message" class="border-danger" id="message" style="height:100px; width: 100%;color: black;" required></textarea><br>
                 <br/>
                 <button type="submit" class="btn btn-danger text-white button">Envoyer</button>
             </form>
