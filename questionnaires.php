@@ -150,9 +150,9 @@ if(isset($_GET['page'])){
         <img class="image" src="images/age.png" alt="Graphique montrant l'age des participants "/>            
         <p class="text-center"><em>Figure n°11 : Age des participants</em></p>
         <img class="image" src="images/genre.png" alt="Graphique montrant le genre des participants "/>            
-        <p class="text-center"><em>Figure n°11 : Genre des participants</em></p>
+        <p class="text-center"><em>Figure n°12 : Genre des participants</em></p>
         <img class="image" src="images/situationpro.png" alt="Graphique montrant l'age des participants "/>            
-        <p class="text-center"><em>Figure n°11 : Situation professionnelle des participants</em></p>
+        <p class="text-center"><em>Figure n°13 : Situation professionnelle des participants</em></p>
         <p>
             Enfin, nous avons souhaité savoir comment les participants avaient eu vent de notre expérience:
         </p>
@@ -273,6 +273,7 @@ if(isset($_GET['page'])){
             L’expérience semble correspondre aux attentes des sujets, qui ont tous été prêts à recommander cette expérience à 
             leurs proches, montrant leur satisfaction quant à la pertinence et attentes de ce projet. 
         </p>
+    </section>    
         <?php
     
 }
