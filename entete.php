@@ -73,7 +73,7 @@ session_start();?>
                         </li>
                         <div class="dropdown-divider bg-light "></div>
                         <li class="nav-item bg-dark">
-                            <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Nous contacter</a>
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="contact.php">Nous contacter</a>
                         </li>
                     </ul>
                 </div>

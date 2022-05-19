@@ -112,5 +112,47 @@ hr{
     background-color: white;
     border: none;
 }
+#bleu{
+    height:20px;
+    width: 20px;
+    background-color: blue;
+    margin:0;
+    margin-top: 3px;
+}
+#orange {
+    height:20px;
+    width: 20px;
+    background-color: #FF750B;
+    margin:0;
+    margin-top: 4px;
+}
+#vert {
+    height:20px;
+    width: 20px;
+    background-color: #00B87B;
+    margin:0;
+    margin-top: 4px;
+}
+#orange_clair{
+    height:20px;
+    width: 20px;
+    background-color: #F5B26A;
+    margin:0;
+    margin-top: 3px;
+}
+#rose{
+    height:20px;
+    width: 20px;
+    background-color: #FF2CFF;
+    margin:0;
+    margin-top: 3px;
+}
+#rouge{
+    height:20px;
+    width: 20px;
+    background-color: #FF3C3A;
+    margin:0;
+    margin-top: 3px;
+}
 
   
