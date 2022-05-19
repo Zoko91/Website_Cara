@@ -14,6 +14,7 @@
         </section>
         <section>
             <h2>Résultats des premières expériences</h2>
+            <br>
             <table>
                 <tr style="background-color: rgb(0,70,139)">
                     <td>Sujet</td>

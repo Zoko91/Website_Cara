@@ -47,6 +47,9 @@ session_start();?>
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="questionnaires.php">Analyses des questionnaires</a>
                         </li>
                         <li class="nav-item bg-dark">
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="resultats.php">BrainInfo2022</a>
+                        </li>
+                        <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="BrainInfo.php">BrainInfo2022</a>
                         </li>
                         <li class="nav-item bg-dark">
