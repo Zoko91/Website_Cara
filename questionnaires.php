@@ -2,10 +2,10 @@
 <div class=container>
 <h2 class ="text-center">Résultats des différents questionnaires </h2>
 <nav class="navbar ">
-    <a href ="questionnaires.php?page=sus"class="btn btn-sm btn-outline-secondary" role='button' aria-pressed='true'>Questionnaires SUS</a>
-    <a href ="questionnaires.php?page=preexp" class="btn btn-sm btn-outline-secondary" role='button' aria-pressed='true'>Pré-expérience</a>
-    <a href ="questionnaires.php?page=postexp" class="btn btn-sm btn-outline-secondary" role='button' aria-pressed='true'>Post-expérience</a>
-    <a href ="questionnaires.php?page=croisement" class="btn btn-sm btn-outline-secondary" role='button' aria-pressed='true'>Résultats croisés</a>
+    <a href ="questionnaires.php?page=sus"class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Questionnaires SUS</a>
+    <a href ="questionnaires.php?page=preexp" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Pré-expérience</a>
+    <a href ="questionnaires.php?page=postexp" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Post-expérience</a>
+    <a href ="questionnaires.php?page=croisement" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Résultats croisés</a>
 </nav>
 
 <?php
