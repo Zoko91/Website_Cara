@@ -37,9 +37,6 @@ C’est ce désir de comparer les deux méthodes qui a donné naissance au proje
 </br>
 </br>
 
-
-
-
-
-<?php include("footer.php") ?>
 </div>
+<?php include("footer.php") ?>
+

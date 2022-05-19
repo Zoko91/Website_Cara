@@ -6,5 +6,7 @@
 <div class=container>
 <?php include("protocole.php");?>
 
-<?php include("footer.php") ?>
+
 </div>
+<?php include("footer.php") ?>
+
