@@ -11,12 +11,15 @@
     <a href ="etatart.php?page=bibli" class="btn btn-sm btn-outline-secondary" role='button' aria-pressed='true'>Bibliographie</a>
 </nav>
 
+
 <?php
 
 if(isset($_GET['page'])){
     if($_GET['page']=='p300'){
         ?>
     </br>
+    <div class="row ">
+        <div class=col>
     <h3> Le P-300 speller </h3>
     </br>
         <p>
@@ -25,14 +28,22 @@ if(isset($_GET['page'])){
         <p>
             Son interface est constituée d’une matrice constituée des lettres de l’alphabet ou d’autres caractères dont les colonnes et lignes sont flashées de manière aléatoire. La personne utilisant ce BCI devra compter le nombre de fois où la lettre qu’il veut afficher est flashée. Grâce à un électroencéphalogramme, l’activité électrique du cerveau est enregistrée et une augmentation du potentiel évoqué P300 est observée au moment où le caractère attendu est présenté.
         </p>
+
         <p>
             Le but de nombreux chercheurs est d’améliorer la performance de ce procédé car les BCI sont très utiles pour les personnes ne  pouvant plus se servir de leurs muscles, comme notamment les personnes souffrant de sclérose latérale amyotrophique (SLA). En effet, même s’il est très utilisé, la performance du P300-speller n’est pas encore satisfaisante.
         </p>
     </br>
-    <div class="text-center">
-        <video controls autoplay  width="250">
-            <source src="images/BCI.mp4" type="video/mp4">
-        </video>
+    </div>
+  
+    <div class="col justify-content-center">
+    </br>
+    </br>
+    </br>
+    </br>
+    <div class="row justify-content-center">
+    <img  alt="Utilise BCI" src="images/casqueBCI.jpg" style="width:50%;heigth:50%;">
+    </div>
+    </div>
     </div>
     <?php
     
@@ -108,6 +119,8 @@ C’est pourquoi dans notre présente étude, nous utiliserons pour le clavier a
     else if ($_GET['page']=='uma'){
         ?>
         </br>
+        <div class=row>
+            <div class=col>
         <h3>UMA-BCI speller </h3>
             </br>
         <p>
@@ -119,6 +132,18 @@ C’est pourquoi dans notre présente étude, nous utiliserons pour le clavier a
         et ils peuvent naviguer à travers différentes mises en page, ouvrant ainsi la
         la porte à des configurations complexes du speller. Ces fonctionnalités sont notamment utiles aux chercheurs car cela permet de créer des conditions expérimentales plus facilement.
         </p>
+    </div>
+        
+    <div class="col justify-content-center">
+    </br>
+    </br>
+    </br>
+    </br>
+    <div class="row justify-content-center">
+    <img  alt="UMA BCI" src="images/UMA.png" style="width:50%;heigth:50%;">
+    </div>
+    </div>
+    </div>
         
         
         <?php
@@ -172,7 +197,11 @@ else{
 </br>
 Notre état de l'art a couvert les études anciennement faites en lien avec les BCI et le type et couleur des stimulus utilisés.
 Nous avons cherché ce qu'était précisément un P-300 speller, de même que nous sommes allés chercher de la documentation sur le UMA-BCI speller.
-
+</br> 
+</br>
+<div class="row justify-content-center">
+    <img  alt="BCI" src="images/BCIimage.jpg" style="width:35%;heigth:35%">
+</div>
 </br>
 </br>
 </br>
