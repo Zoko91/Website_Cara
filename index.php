@@ -97,5 +97,35 @@
     </div>
   </div>
 </div>
+<div class="row  justify-content-center">
+  <div class="card" style="margin:20px">
+    <div class="card-body" style="background-color: rgb(38,41,45)">
+      <div class="row" style="margin:20px">
+        </br>
+          <h5>Client :  Ricardo Ron Angevin</h5>
+      </div>
+    </div>
+  </div>
+
+  <div class="card"  style="margin:20px">
+    <div class="card-body" style="background-color: rgb(38,41,45)">
+      <div class="row" style="margin:20px">
+          <h5>Tuteur : Véronique Lespinet-Najib</h5>
+      </div>
+    </div>
+  </div>
 </div>
+
+<div class="row justify-content-center">
+<div class="card" style="width:200px">
+    <div class="card-body" style="background-color: rgb(38,41,45)">
+      <div class="row justify-content-center">
+          Mai 2022
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
 <?php include("footer.php") ?>

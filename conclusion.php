@@ -73,7 +73,15 @@
     </blockquote>
   </div>
 </div>
-  
+</div>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<div class="row justify-content-center">
+<img class="card-img-top" src="images/chat.jpg" alt="Chat "style="width:20%;heigth:20%">
 </div>
 </div>
 <?php include("footer.php") ?>
