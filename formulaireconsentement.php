@@ -1,7 +1,5 @@
 <?php include("entete.php");
 ?>
-<title>Formulaire de Consentement libre, éclairé et exprès</title>
-<body>
     <br>
     <br>
     <br>
@@ -25,6 +23,6 @@
         <p>Nom de l’expérience : Projet CARA</p>
 
     </div>
-    <?php include("footer.php") ?>
+
     </div>
-</body>
+<?php include("footer.php") ?>

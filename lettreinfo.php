@@ -1,7 +1,5 @@
 <?php include("entete.php");
 ?>
-<title>Lettre d'information</title>
-<body>
     <br>
     <br>
     <br>
@@ -24,6 +22,6 @@
 
         <p style="text-indent: 15px;">Les élèves Joseph Beasse, Adrien Clement, Clara Dupont, Maïwenn Le Gall et Juliette Meunier restent à votre disposition pour tout éclaircissement ultérieur. </p>
     </div>
-    <?php include("footer.php") ?>
+
     </div>
-</body>
+<?php include("footer.php") ?>

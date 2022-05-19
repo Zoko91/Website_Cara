@@ -1,7 +1,4 @@
-<?php include("entete.php");
-?>
-<title>BrainInfo2022</title>
-<body>
+<?php include("entete.php"); ?>
     <br>
     <br>
     <br>
@@ -26,69 +23,70 @@
                     <td>Nombre d'erreurs phase on-line</td>
                 </tr>
                 <tr>
-                    <tr>
-                        <td rowspan="2" style="background-color : rgb(139,0,0)">Sujet n°1</td>
-                        <td>Célébrité (1)</td>
-                        <td>100% dès le 2nd flash</td>
-                        <td>3</td>
-                        <td>0</td>
-                    </tr>
-                    <tr>
-                        <td>Neutre (2)</td>
-                        <td>100% dès le 2nd flash</td>
-                        <td>3</td>
-                        <td>1 (sûrement dû à un bug du logiciel)</td>
-                    </tr>
+                <tr>
+                    <td rowspan="2" style="background-color : rgb(139,0,0)">Sujet n°1</td>
+                    <td>Célébrité (1)</td>
+                    <td>100% dès le 2nd flash</td>
+                    <td>3</td>
+                    <td>0</td>
                 </tr>
                 <tr>
-                    <tr>
-                        <td rowspan="2" style="background-color : rgb(139,0,0)">Sujet n°2</td>
-                        <td>Célébrité (2)</td>
-                        <td>100% dès le 2nd flash</td>
-                        <td>3</td>
-                        <td>0</td>
-                    </tr>
-                    <tr>
-                        <td>Neutre (1)</td>
-                        <td>100% dès le 3ème flash mais redescends sous les 100% à partir du 8ème flash</td>
-                        <td>4</td>
-                        <td>0</td>
-                    </tr>
+                    <td>Neutre (2)</td>
+                    <td>100% dès le 2nd flash</td>
+                    <td>3</td>
+                    <td>1 (sûrement dû à un bug du logiciel)</td>
+                </tr>
                 </tr>
                 <tr>
-                    <tr>
-                        <td rowspan="2" style="background-color :rgb(139,0,0)">Sujet n°3</td>
-                        <td>Célébrité (2)</td>
-                        <td>100% dès le 2nd flash</td>
-                        <td>3</td>
-                        <td>0</td>
-                    </tr>
-                    <tr>
-                        <td>Neutre (1)</td>
-                        <td>100% dès le 1er flash</td>
-                        <td>2</td>
-                        <td>4</td>
-                    </tr>
+                <tr>
+                    <td rowspan="2" style="background-color : rgb(139,0,0)">Sujet n°2</td>
+                    <td>Célébrité (2)</td>
+                    <td>100% dès le 2nd flash</td>
+                    <td>3</td>
+                    <td>0</td>
                 </tr>
                 <tr>
-                    <tr>
-                        <td rowspan="2" style="background-color : rgb(139,0,0)">Sujet n°4</td>
-                        <td>Célébrité (1)</td>
-                        <td>100% dès le 1er flash</td>
-                        <td>3</td>
-                        <td>4</td>
-                    </tr>
-                    <tr>
-                        <td>Neutre (2)</td>
-                        <td>100% dès le 2nd flash</td>
-                        <td>3</td>
-                        <td>0</td>
-                    </tr>
+                    <td>Neutre (1)</td>
+                    <td>100% dès le 3ème flash mais redescends sous les 100% à partir du 8ème flash</td>
+                    <td>4</td>
+                    <td>0</td>
                 </tr>
-            </table><p>Remarque : Pour les sujet 3 et 4, qui ont obtenu lors du calibrage 100% dès le 1er flash, nous avons constaté que tous les mots étaient mal écrits. Pour ces deux sujets, après un second calibrage où les 100% étaient atteints après le 1er flash, les mots étaient correctement écrits. Ainsi, nous pensons que les mauvais résultats ne proviennent pas des claviers (qui ne sont pas les mêmes pour les 2 sujets concernés) mais du calibrage. </p>
-            <br/>            
+                </tr>
+                <tr>
+                <tr>
+                    <td rowspan="2" style="background-color :rgb(139,0,0)">Sujet n°3</td>
+                    <td>Célébrité (2)</td>
+                    <td>100% dès le 2nd flash</td>
+                    <td>3</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Neutre (1)</td>
+                    <td>100% dès le 1er flash</td>
+                    <td>2</td>
+                    <td>4</td>
+                </tr>
+                </tr>
+                <tr>
+                <tr>
+                    <td rowspan="2" style="background-color : rgb(139,0,0)">Sujet n°4</td>
+                    <td>Célébrité (1)</td>
+                    <td>100% dès le 1er flash</td>
+                    <td>3</td>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <td>Neutre (2)</td>
+                    <td>100% dès le 2nd flash</td>
+                    <td>3</td>
+                    <td>0</td>
+                </tr>
+                </tr>
+            </table>
+            <br>
+            <p><strong>Remarque :</strong> Pour les sujet 3 et 4, qui ont obtenu lors du calibrage 100% dès le 1er flash, nous avons constaté que tous les mots étaient mal écrits. Pour ces deux sujets, après un second calibrage où les 100% étaient atteints après le 1er flash, les mots étaient correctement écrits. Ainsi, nous pensons que les mauvais résultats ne proviennent pas des claviers (qui ne sont pas les mêmes pour les 2 sujets concernés) mais du calibrage. </p>
+            <br/>
             <p>Nous avons donc été confrontés à des premières difficultés que nous n’avons pas su expliquer durant le passage de ces expériences. Au vu du peu de sujet et des problèmes rencontrés lors du passage des expériences, il est difficile d’établir de premiers résultats. Néanmoins notre client a tout de même pu les analyser dans un article qui sera présenté lors de la BrainInfo.</p>
         </section>
-    <?php include("footer.php") ?>
     </div>
-</body>
+<?php include("footer.php") ?>

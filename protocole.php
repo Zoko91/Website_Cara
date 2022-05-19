@@ -1,7 +1,5 @@
 <?php include("entete.php");
 ?>
-<title>Protocole expérimental Cara</title>
-<body>
     <br>
     <br>
     <br>
@@ -69,6 +67,6 @@
         <p>Une fois le second clavier passé et le score de satisfaction obtenu, le sujet passe un questionnaire post expérience depuis un ordinateur mis à sa disposition. Ce questionnaire est à faire dans la salle d’expérience aux côtés des examinateurs.
         Une fois le dernier questionnaire rempli, le sujet a le droit à des chocolats et peut partir.</p>
     </section>
-    <?php include("footer.php") ?>
+
     </div>
-</body>
+<?php include("footer.php") ?>
