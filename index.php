@@ -4,9 +4,14 @@
 <div class="text-center" style="background-color: rgb(38,41,45)"><h1>Bienvenue dans le site du Projet <img src="images/C.png" alt="C" style="width: 3%; height: 3%;"><span id="a1">a</span><span id="r">r</span><span id="a2">a</span></h1></div>
 <br>
 <br>
+<br>
 <!--<img src="images/Cara_logo.png" alt="Logo Cara" class="mx-auto d-block w-50 h-50">-->
-
-
+<div class="container text-center">
+    <h5>Pour commencer à parcourir le site veuillez cliquer sur ce bouton !</h5>
+    <a href="presentation.php" class="btn btn-sm btn-outline-success" role="button" aria-pressed="true">Continuer...</a>
+</div>
+<br>
+<br>
 
 <div  class=container>
 <!--
