@@ -19,7 +19,6 @@ session_start();?>
     <nav id="navb" class="navbar navbar-expand-md fixed-top navbar-dark " style="background-color: rgb(38,41,45);">
         <div class="container">
             <div class="col-9 align-middle">
-
                 <a href="index.php">
                     <img src="images/Cara_logo.png" alt="Logo cara haut page" class="me-2" style="height: 48px; padding-bottom: 1%;">
                 </a>
@@ -27,14 +26,11 @@ session_start();?>
                 <a class="navbar-brand rounded-3 fw-bold" href="index.php" id="baliseb">
                     <span class="bg-gradient bg-light p-1 rounded rounded-3 text-dark" id="spanb">Projet</span> Transdisciplinaire
                 </a>
-
-
             </div>
-
+            
             <div class="col-2">
                 <div class="dropdown dropdown-dark">
-                    <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton1"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                    <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton1" data-toggle="dropdown" aria-expanded="false">
                         Naviguer sur le site
                     </button>
                     <ul class="dropdown-menu dropdown-menu-dark bg-dark" aria-labelledby="dropdownMenuButton1">
@@ -46,9 +42,6 @@ session_start();?>
                         </li>
                         <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="protocole.php">Protocole</a>
-                        </li>
-                        <li class="nav-item bg-dark">
-                            <a class="nav-link  dropdown-item  text-white bg-dark" href="protocole.php">Expérimentations</a>
                         </li>
                         <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="questionnaires.php">Analyses des questionnaires</a>
