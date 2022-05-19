@@ -69,4 +69,10 @@
     </section>
 
     </div>
+    <br>
+    <div class="container text-center">
+        <a href ="Projet%20Cara%20CDC.pdf"class="btn btn-sm btn-outline-danger" role='button' aria-pressed='true'>Télécharger le cahier des charges</a>
+    </div>
+
+<br>
 <?php include("footer.php") ?>
