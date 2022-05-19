@@ -4,6 +4,13 @@
     <br>
     <br>
     <div class=container>
+    <nav class="navbar ">
+    <a href ="protocole.php?page=sujet"class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Sujet et matériel</a>
+    <a href ="protocole.php?page=clavier" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Conception des claviers</a>
+    <a href ="protocole.php?page=deroul" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Déroulement de l'expérience</a>
+    <a href ="protocole.php?page=ann" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Annexes</a>
+</nav>
+</br>
     <h1 class="text-center">Lettre d’information expérience BCI avec casque EEG</h1>
     <br/>
     <div class="text-center">
