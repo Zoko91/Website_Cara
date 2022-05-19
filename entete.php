@@ -1,5 +1,8 @@
 <?php
-session_start();?>
+if(!isset($_GET['clav'])){
+    session_start();
+}
+?>
 
 <!DOCTYPE html>
 <html lang="en">
