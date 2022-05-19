@@ -35,7 +35,7 @@ if(isset($_GET['page'])){
         <h3>Déroulement de l’expérience</h3>
         <br/>
         <h3>Avant l’expérience</h3><br/>
-        <p>Avant de commencer l’expérience, les participants sont tenus au courant du déroulement de cette dernière. Il leur est rappelé que ce ne sont pas leurs performances qui sont jugées mais celles des claviers virtuels. Un rappel est également fait sur la protection de leurs données, qui seront anonymisées et qui ne serviront que pour les résultats de nos expériences. Une <a class="lien" href="lettreinfo.php" style="color:white; text-decoration:underline">lettre d'information</a> leur est présentée et ils devront signer un <a class="lien" href="formulaireconsentement.php" style="color:white;text-decoration:underline">formulaire de consentement</a> quant à l’utilisation de leurs données ainsi que remplir un questionnaire de pré-expérience sur un ordinateur mis à leur disposition. Une grille, montrée ci-dessous, permettant de juger du stress, de la somnolence et des sentiments agréables est présente sur la table et devra être expliquée aux sujets afin qu’ils puissent évaluer leurs niveaux de stress.</p>
+        <p>Avant de commencer l’expérience, les participants sont tenus au courant du déroulement de cette dernière. Il leur est rappelé que ce ne sont pas leurs performances qui sont jugées mais celles des claviers virtuels. Un rappel est également fait sur la protection de leurs données, qui seront anonymisées et qui ne serviront que pour les résultats de nos expériences. Une <a class="lien" href="lettreinfo.php" style="color:white; text-decoration:underline">lettre d'information</a> leur est présentée et ils devront signer un <a class="lien" href="formulaireconsentement.php" style="color:white;text-decoration:underline">formulaire de consentement</a> quant à l’utilisation de leurs données ainsi que remplir un <a class="lien" href="https://framaforms.org/questionnaire-projet-cara-pre-experience-1647109900" style="color:white;text-decoration:underline">questionnaire de pré-expérience</a> sur un ordinateur mis à leur disposition. Une grille, montrée ci-dessous, permettant de juger du stress, de la somnolence et des sentiments agréables est présente sur la table et devra être expliquée aux sujets afin qu’ils puissent évaluer leurs niveaux de stress.</p>
         <br/><img class="image" src="images/Grille.png" alt="Grille permettant de juger notre état de fatigue, stress et d'excitation"/>
         <p class="text-center"><em>Figure n°1 : Grille utilisée</em></p>
         <br/>
@@ -76,7 +76,7 @@ if(isset($_GET['page'])){
         <br/>
         <section>
             <h2>Après l’expérience</h2><br/>
-            <p>Une fois le second clavier passé et le score de satisfaction obtenu, le sujet passe un questionnaire post expérience depuis un ordinateur mis à sa disposition. Ce questionnaire est à faire dans la salle d’expérience aux côtés des examinateurs.
+            <p>Une fois le second clavier passé et le score de satisfaction obtenu, le sujet passe un <a class="lien" href="https://framaforms.org/questionnaire-projet-cara-post-experience-1647262635" style="color:white;text-decoration:underline">questionnaire post-expérience</a> depuis un ordinateur mis à sa disposition. Ce questionnaire est à faire dans la salle d’expérience aux côtés des examinateurs.
                 Une fois le dernier questionnaire rempli, le sujet a le droit à des chocolats et peut partir.</p>
         </section>
 
@@ -87,7 +87,7 @@ if(isset($_GET['page'])){
     else if ($_GET['page']=='clavier'){
         ?>
         </br>
-        <h1 class="text-center">Conception des claviers</h1>
+        <h3>Conception des claviers</h3>
         <br/>
         <p>
             En octobre 2021, le client de notre projet, Ricardo Ron Angevin, a pu se rendre dans les locaux de l’ENSC afin de nous
@@ -104,11 +104,11 @@ if(isset($_GET['page'])){
         </p>
         <br/>
         <p>
-            Le premier clavier, appelé “Clavier célébrités”, présente des lettres blanches sur fond noir, et lorqu’une colonne ou une
-            ligne s’active, le visage d’une célébrité apparait. Nous avons ici choisi Obama, dont le visage est connu, reconnaissable
-            et qui a été utilisé dans les protocoles de certains articles étudiés dans l’état de l’art. En nous basant sur l’étude
-            de Li et al. (2020), nous avons coloré cette image en rouge, afin d’optimiser les performances. De même, selon l’étude de
-            Zhang et al. (2021), les résultats sont meilleurs lorsque le fond de l’image est blanc. Ainsi, nous avons opté pour un
+            Le premier clavier, appelé “Clavier célébrités”, présente des lettres blanches sur fond noir, et lorqu’une colonne ou une 
+            ligne s’active, le visage d’une célébrité apparait. Nous avons ici choisi Obama, dont le visage est connu, reconnaissable 
+            et qui a été utilisé dans les protocoles de certains articles étudiés dans l’état de l’art. En nous basant sur l’étude  
+            de <a class="lien" style="color:white" href='etatart.php?page=bibli'>Li et al. (2020)</a>, nous avons coloré cette image en rouge, afin d’optimiser les performances. De même, selon l’étude de 
+            <a class="lien" style="color:white" href='etatart.php?page=bibli'>Zhang et al. (2021)</a>, les résultats sont meilleurs lorsque le fond de l’image est blanc. Ainsi, nous avons opté pour un 
             visage d’Obama rouge sur fond blanc, comme stimulus.
         </p>
 
@@ -116,12 +116,12 @@ if(isset($_GET['page'])){
         <p class="text-center"><em> Figure n°1 : Clavier avec “photo de célébrité”</em></p>
         <br/>
         <p>
-            Le second clavier, appelé “Clavier images neutres”, présente des lettres blanches sur fond noir, et lorqu’une colonne ou
-            une ligne s’active, des images neutres apparaissent. Ce clavier est basé sur celui utilisé lors de l’étude de
-            Fernández-Rodríguez et al. (2019). Les images proviennent de la base de données IAPS (International Affective Picture
+            Le second clavier, appelé “Clavier images neutres”, présente des lettres blanches sur fond noir, et lorqu’une colonne ou 
+            une ligne s’active, des images neutres apparaissent. Ce clavier est basé sur celui utilisé lors de l’étude de 
+            <a class="lien" style="color:white" href='etatart.php?page=bibli'>Fernández-Rodríguez et al. (2019)</a>. Les images proviennent de la base de données IAPS (International Affective Picture 
             System) qui a été conçue pour fournir un ensemble standardisé d'images pour étudier les émotions.<br/>
-            Ces deux claviers comportent 5 lignes et 5 colonnes, et donc 25 caractères. Nous avons choisi de conserver les lettres
-            de l’alphabet, dans l’ordre alphabétique, en retirant le z. Nous avons fait ce choix, pour que la taille des images soit
+            Ces deux claviers comportent 5 lignes et 5 colonnes, et donc 25 caractères. Nous avons choisi de conserver les lettres 
+            de l’alphabet, dans l’ordre alphabétique, en retirant le z. Nous avons fait ce choix, pour que la taille des images soit 
             suffisante, tout en gardant un maximum de lettres de l’alphabet. Les images ont une dimension de 2x3.
         </p>
         <br/>
@@ -143,7 +143,12 @@ if(isset($_GET['page'])){
         </br>
 
         <a class="lien" href="formulaireconsentement.php" role='button' aria-pressed='true' class='btn btn-secondary'>Formulaire consentement</a>
-
+        </br>
+        </br>
+        <a class="lien" href="https://framaforms.org/questionnaire-projet-cara-pre-experience-1647109900">Questionnaire de pré-expérience</a>
+        </br>
+        </br>
+        <a class="lien" href="https://framaforms.org/questionnaire-projet-cara-post-experience-1647262635">Questionnaire post-expérience</a>
 
 
 

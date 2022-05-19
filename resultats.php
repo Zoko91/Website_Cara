@@ -23,14 +23,14 @@
                     <td>100% dès le 2ème flash</td>
                     <td>3</td>
                     <td>1</td>
-                    <td>CHEK</td>
+                    <td>CCEF</td>
                 </tr>
                 <tr>
                     <td>Neutre (1)</td>
                     <td>100% dès le 2ème flash</td>
                     <td>3</td>
                     <td>1</td>
-                    <td>CCEF</td>
+                    <td>CHEK</td>
                 </tr>
                 </tr>
                 <tr>
