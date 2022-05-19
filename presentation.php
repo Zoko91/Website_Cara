@@ -16,7 +16,7 @@ Commanditée par M. Ricardo Ron Angevin, chercheur travaillant à Malaga en Espa
 Les BCI permettent via un casque EEG (électroencéphalogramme) d'afficher des lettres à l'aide d'un clavier virtuel.
 </p>
 <p>
-Cependant, l'utilisation d'un casque BCI n’est pas infaillible, et est donc toujours en cours de développement. Ainsi, en 2011, des recherches menées par Kaufman et al ont montré que l’utilisation d’images de célébrités remplaçant les flashs lumineux avait un impact positif sur les performances du dispositif, et la même conclusion a été observée par Álvaro Fernández-Rodríguez et al en 2019 avec l’utilisation d’images neutres (<a style="color:white" href='etatart.php?page=type'>pour en savoir plus...</a>).
+Cependant, l'utilisation d'un casque BCI n’est pas infaillible, et est donc toujours en cours de développement. Ainsi, en 2011, des recherches menées par Kaufman et al ont montré que l’utilisation d’images de célébrités remplaçant les flashs lumineux avait un impact positif sur les performances du dispositif, et la même conclusion a été observée par Álvaro Fernández-Rodríguez et al en 2019 avec l’utilisation d’images neutres (<a class="lien" style="color:white" href='etatart.php?page=type'>pour en savoir plus...</a>).
 C’est ce désir de comparer les deux méthodes qui a donné naissance au projet Cara.
 </p>
 
