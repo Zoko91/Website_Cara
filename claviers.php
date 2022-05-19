@@ -1,6 +1,4 @@
 <?php include("entete.php");?>
-
-<body>
     <br>
     <br>
     <br>
@@ -43,9 +41,9 @@
             suffisante, tout en gardant un maximum de lettres de l’alphabet. Les images ont une dimension de 2x3.
         </p>
         <br/>
-        <img class="image" src="images/clavierneutre.png" alt="Capture d'écran du clavier avec une image neutre"/>
+        <img class="image" src="images/clavierneutre.png" alt="Capture d'écran du clavier avec une image neutre" style="width:35%;height:35%"/>
         <p class="text-center"> <em>Figure n°2 : Clavier avec images “neutres”</em></p>
 
     </div>
+    <?php include("footer.php") ?>
     
-<body>

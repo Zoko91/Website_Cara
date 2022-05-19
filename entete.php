@@ -51,19 +51,10 @@ session_start();?>
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="protocole.php">Expérimentations</a>
                         </li>
                         <li class="nav-item bg-dark">
-                            <a class="nav-link  dropdown-item  text-white bg-dark" href="lettreinfo.php">Lettre d'information</a>
-                        </li>
-                        <li class="nav-item bg-dark">
-                            <a class="nav-link  dropdown-item  text-white bg-dark" href="formulaireconsentement.php">Formulaire de consentement</a>
-                        </li>
-                        <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="questionnaires.php">Analyses des questionnaires</a>
                         </li>
                         <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="BrainInfo.php">BrainInfo2022</a>
-                        </li>
-                        <li class="nav-item bg-dark">
-                            <a class="nav-link  dropdown-item  text-white bg-dark" href="#">Résultats</a>
                         </li>
                         <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="gestion.php">Gestion de Projet</a>
