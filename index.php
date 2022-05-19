@@ -9,7 +9,7 @@
 
 
 <div  class=container>
-
+<!--
 <div style = "width:800px; text-align:center ; margin:auto ;display:flex" id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -19,11 +19,11 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="images/casque.jpg" alt="Second slide">
+      <img class="d-block w-100"  style="width:75%;" src="images/braininfo.png" alt="brain info">
       <div class="carousel-caption d-none d-md-block">
         <a href="experimentation.php"  role='button' aria-pressed='true'>Voir les expérimentations ...</a>
       </div>
-    </div>
+    </div> 
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -34,7 +34,23 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+-->
 
+<div class="card">
+  <div class="card-body" style="background-color: rgb(38,41,45)">
+  <h5 class="text-center"> Nos résultats seront présentés à la Brain Info 2022 !  </h5>
+</br>
+  <div class="row justify-content-center">
+  <img class="card-img-top" src="images/braininfo.png" alt="Card image cap" style="width:75%;height:75%;">
+</br>
+</div>
+</br>
+<div class="row justify-content-center">
+</br>
+  <a href="BrainInfo.php" role='button' aria-pressed='true' class='btn btn-secondary'>En savoir plus ...</a>
+  </div>
+  </div>
+</div>
 </br>
 
 <div class="text-center" style="background-color: rgb(38,41,45)"><h1> Qui sommes-nous ?</div>

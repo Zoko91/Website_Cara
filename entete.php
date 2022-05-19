@@ -28,7 +28,6 @@ session_start();?>
                     <span class="bg-gradient bg-light p-1 rounded rounded-3 text-dark" id="spanb">Projet</span> Transdisciplinaire
                 </a>
 
-
             </div>
 
             <div class="col-2">
