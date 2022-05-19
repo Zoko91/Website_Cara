@@ -18,7 +18,7 @@
       <p style="color:black;"> Ce projet nous a permis de découvrir et de mieux comprendre le système BCI. Le passage des expériences nous a donné l’occasion de mettre en pratique des méthodologies étudiées lors du module “Facteurs humains, Utilisabilité et UX” comme la création de questionnaires et le déroulement d’une expérience. Il a été également très intéressant d’analyser les résultats d’un point de vue utilisateur nous permettant d’avoir des avis extérieurs sur notre démarche. <br/><br/>
         La gestion de projet a été essentielle et nous a permis d’apprendre à travailler ensemble et à se répartir efficacement les tâches à effectuer. <br/><br/>
         Enfin, nous avons pu appliquer les compétences développées en programmation web puisque nous avons codé nous-même ce site. <br/><br/>
-        Ainsi, ce projet a été très enrichissant pour nous car il nous a permis de mettre en pratique plusieurs éléments que nous avons pu étudier au cours de l’année mais également de nous faire découvrir le fonctionnement des interfaces cerveau-ordinateur et le domaine de la recherche. <br/>
+        Ainsi, ce projet a été très enrichissant pour nous car il nous a permis de mettre en pratique plusieurs thématiques que nous avons pu étudier au cours de l’année mais également de nous faire découvrir le fonctionnement des interfaces cerveau-ordinateur et le domaine de la recherche. <br/>
       </p>
   </div>
 </div> <br/><br/>
