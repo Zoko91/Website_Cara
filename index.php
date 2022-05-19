@@ -41,7 +41,7 @@
   <h5 class="text-center"> Nos résultats seront présentés à la Brain Info 2022 !  </h5>
 </br>
   <div class="row justify-content-center">
-  <img class="card-img-top" src="images/braininfo.png" alt="Card image cap" style="width:75%;height:75%;">
+  <img class="card-img-top" src="images/braininfo.png" alt="Brain info" style="width:75%;height:75%;">
 </br>
 </div>
 </br>
