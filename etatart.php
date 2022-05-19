@@ -4,11 +4,11 @@
 
 <h2 class ="text-center">Etat de l'art </h2>
 <nav class="navbar ">
-    <a href ="etatart.php?page=p300"class="btn btn-sm btn-outline-secondary" role='button' aria-pressed='true'>P-300 speller</a>
-    <a href ="etatart.php?page=type" class="btn btn-sm btn-outline-secondary" role='button' aria-pressed='true'>Type de stimulus</a>
-    <a href ="etatart.php?page=couleur" class="btn btn-sm btn-outline-secondary" role='button' aria-pressed='true'>Couleur du stimulus</a>
-    <a href ="etatart.php?page=uma" class="btn btn-sm btn-outline-secondary" role='button' aria-pressed='true'>UMA-BCI speller</a>
-    <a href ="etatart.php?page=bibli" class="btn btn-sm btn-outline-secondary" role='button' aria-pressed='true'>Bibliographie</a>
+    <a href ="etatart.php?page=p300"class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>P-300 speller</a>
+    <a href ="etatart.php?page=type" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Type de stimulus</a>
+    <a href ="etatart.php?page=couleur" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Couleur du stimulus</a>
+    <a href ="etatart.php?page=uma" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>UMA-BCI speller</a>
+    <a href ="etatart.php?page=bibli" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Bibliographie</a>
 </nav>
 
 

@@ -17,8 +17,8 @@
         <h3>Sujets</h3>
         <p>Ces expériences sont effectuées par une douzaine de participants, étudiants eux aussi à l’ENSC. Ils doivent avoir une vue normale ou corrigée leur permettant de distinguer les couleurs. Il est également préférable qu’ils n’aient jamais participé à des expériences BCI auparavant. </p>
 
-        <h3>Matériels</h3>
-        <p>L’expérience a lieu dans le bâtiment de la Forge à l’ENSC dans une salle équipée d’EEG ainsi que d’un ordinateur. L’expérience s’effectue à l’aide du logiciel UMA BCI-Speller qui a permis l’élaboration des <a style="color:white;text-decoration:underline" href="claviers.php">claviers </a> de taille 5x5 et qui permet également de pouvoir les tester. </p>
+        <h3>Matériel</h3>
+        <p>L’expérience a lieu dans le bâtiment de la Forge à l’ENSC dans une salle équipée d’EEG ainsi que d’un ordinateur. L’expérience s’effectue à l’aide du logiciel UMA BCI-Speller qui a permis l’élaboration des <a style="color:white;text-decoration:underline" href="claviers.php">claviers</a> de taille 5x5 et qui permet également de pouvoir les tester. </p>
     </section>
     <br/>
     <section>
