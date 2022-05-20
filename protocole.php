@@ -138,17 +138,17 @@ if(isset($_GET['page'])){
         </br>
 
 
-        <a class="lien" href="lettreinfo.php" role='button' aria-pressed='true' class='btn btn-secondary'>Lettre d'information</a>
+        <a href="lettreinfo.php" role='button' aria-pressed='true' class='btn btn-secondary'>Lettre d'information</a>
         </br>
         </br>
 
-        <a class="lien" href="formulaireconsentement.php" role='button' aria-pressed='true' class='btn btn-secondary'>Formulaire consentement</a>
+        <a href="formulaireconsentement.php" role='button' aria-pressed='true' class='btn btn-secondary'>Formulaire consentement</a>
         </br>
         </br>
-        <a class="lien" href="https://framaforms.org/questionnaire-projet-cara-pre-experience-1647109900">Questionnaire de pré-expérience</a>
+        <a href="https://framaforms.org/questionnaire-projet-cara-pre-experience-1647109900" class='btn btn-secondary'>Questionnaire de pré-expérience</a>
         </br>
         </br>
-        <a class="lien" href="https://framaforms.org/questionnaire-projet-cara-post-experience-1647262635">Questionnaire post-expérience</a>
+        <a href="https://framaforms.org/questionnaire-projet-cara-post-experience-1647262635" class='btn btn-secondary'>Questionnaire post-expérience</a>
 
 
         <?php
@@ -158,6 +158,7 @@ if(isset($_GET['page'])){
 }
 else{
     ?>
+    </br>
     <p>
         Ce protocole est réalisé dans le but de comparer les résultats des performances BCI de deux claviers virtuels : le premier composé d’images neutres et le second d’une photo de célébrité.
         Pour cela les expériences se déroulent dans la Forge, un bâtiment de l’Ecole Nationale Supérieure de Cognitique (ENSC) et sont réalisées par 5 étudiants en première année qui forment l’équipe de ce projet.
