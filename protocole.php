@@ -7,7 +7,7 @@
     <h1 class="text-center">Protocole expérimental Cara</h1>
     <br/>
     <nav class="navbar ">
-        <a href ="protocole.php?page=sujet"class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Sujet et matériel</a>
+        <a href ="protocole.php?page=sujet"class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Sujets et matériel</a>
         <a href ="protocole.php?page=clavier" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Conception des claviers</a>
         <a href ="protocole.php?page=deroul" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Déroulement de l'expérience</a>
         <a href ="protocole.php?page=ann" class="btn btn-sm btn-outline-info" role='button' aria-pressed='true'>Annexes</a>
@@ -35,7 +35,7 @@ if(isset($_GET['page'])){
         <h3>Déroulement de l’expérience</h3>
         <br/>
         <h3>Avant l’expérience</h3><br/>
-        <p>Avant de commencer l’expérience, les participants sont tenus au courant du déroulement de cette dernière. Il leur est rappelé que ce ne sont pas leurs performances qui sont jugées mais celles des claviers virtuels. Un rappel est également fait sur la protection de leurs données, qui seront anonymisées et qui ne serviront que pour les résultats de nos expériences. Une <a class="lien" href="lettreinfo.php" style="color:white;">lettre d'information</a> leur est présentée et ils devront signer un <a class="lien" href="formulaireconsentement.php" style="color:white;">formulaire de consentement</a> quant à l’utilisation de leurs données ainsi que remplir un <a class="lien" href="https://framaforms.org/questionnaire-projet-cara-pre-experience-1647109900" style="color:white;">questionnaire de pré-expérience</a> sur un ordinateur mis à leur disposition. Une grille, montrée ci-dessous, permettant de juger du stress, de la somnolence et des sentiments agréables est présente sur la table et devra être expliquée aux sujets afin qu’ils puissent évaluer leurs niveaux de stress.</p>
+        <p>Avant de commencer l’expérience, les participants sont tenus au courant du déroulement de cette dernière. Il leur est rappelé que ce ne sont pas leurs performances qui sont jugées mais celles des claviers virtuels. Un rappel est également fait sur la protection de leurs données, qui seront anonymisées et qui ne serviront que pour les résultats de nos expériences. Une <a class="lien" href="lettreinfo.php" style="color:white;">lettre d'information</a> leur est présentée et ils devront signer un <a class="lien" href="formulaireconsentement.php" style="color:white;">formulaire de consentement</a> quant à l’utilisation de leurs données ainsi que remplir un <a class="lien" target="_blank" href="https://framaforms.org/questionnaire-projet-cara-pre-experience-1647109900" style="color:white;">questionnaire de pré-expérience</a> sur un ordinateur mis à leur disposition. Une grille, montrée ci-dessous, permettant de juger du stress, de la somnolence et des sentiments agréables est présente sur la table et devra être expliquée aux sujets afin qu’ils puissent évaluer leurs niveaux de stress.</p>
         <br/><img class="image" src="images/Grille.png" alt="Grille permettant de juger notre état de fatigue, stress et d'excitation"/>
         <p class="text-center"><em>Figure n°1 : Grille utilisée</em></p>
         <br/>
@@ -76,7 +76,7 @@ if(isset($_GET['page'])){
         <br/>
         <section>
             <h2>Après l’expérience</h2><br/>
-            <p>Une fois le second clavier passé et le score de satisfaction obtenu, le sujet passe un <a class="lien" href="https://framaforms.org/questionnaire-projet-cara-post-experience-1647262635" style="color:white;">questionnaire post-expérience</a> depuis un ordinateur mis à sa disposition. Ce questionnaire est à faire dans la salle d’expérience aux côtés des examinateurs.
+            <p>Une fois le second clavier passé et le score de satisfaction obtenu, le sujet passe un <a class="lien" target="_blank" href="https://framaforms.org/questionnaire-projet-cara-post-experience-1647262635" style="color:white;">questionnaire post-expérience</a> depuis un ordinateur mis à sa disposition. Ce questionnaire est à faire dans la salle d’expérience aux côtés des examinateurs.
                 Une fois le dernier questionnaire rempli, le sujet a le droit à des chocolats et peut partir.</p>
         </section>
 
@@ -145,10 +145,10 @@ if(isset($_GET['page'])){
         <a href="formulaireconsentement.php" role='button' aria-pressed='true' class='btn btn-secondary'>Formulaire consentement</a>
         </br>
         </br>
-        <a href="https://framaforms.org/questionnaire-projet-cara-pre-experience-1647109900" class='btn btn-secondary'>Questionnaire de pré-expérience</a>
+        <a href="https://framaforms.org/questionnaire-projet-cara-pre-experience-1647109900" target="_blank" class='btn btn-secondary'>Questionnaire de pré-expérience</a>
         </br>
         </br>
-        <a href="https://framaforms.org/questionnaire-projet-cara-post-experience-1647262635" class='btn btn-secondary'>Questionnaire post-expérience</a>
+        <a href="https://framaforms.org/questionnaire-projet-cara-post-experience-1647262635" target="_blank" class='btn btn-secondary'>Questionnaire post-expérience</a>
 
 
         <?php

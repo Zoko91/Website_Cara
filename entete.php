@@ -28,7 +28,6 @@ if(!isset($_GET['clav'])){
                 <a href="index.php">
                     <img src="images/Cara_logo.png" alt="Logo cara haut page" class="me-2" style="height: 48px; padding-bottom: 1%;">
                 </a>
-                &nbsp;
                 <a class="navbar-brand rounded-3 fw-bold" href="index.php" id="baliseb">
                     <span class="bg-gradient bg-light p-1 rounded rounded-3 text-dark" id="spanb">Projet</span> Transdisciplinaire
                 </a>
@@ -50,11 +49,12 @@ if(!isset($_GET['clav'])){
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="protocole.php">Protocole</a>
                         </li>
                         <li class="nav-item bg-dark">
-                            <a class="nav-link  dropdown-item  text-white bg-dark" href="questionnaires.php">Analyses des questionnaires</a>
-                        </li>
-                        <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="resultats.php">Résultats</a>
                         </li>
+                        <li class="nav-item bg-dark">
+                            <a class="nav-link  dropdown-item  text-white bg-dark" href="questionnaires.php">Analyses des questionnaires</a>
+                        </li>
+                    
                         <li class="nav-item bg-dark">
                             <a class="nav-link  dropdown-item  text-white bg-dark" href="BrainInfo.php">BrainInfo2022</a>
                         </li>

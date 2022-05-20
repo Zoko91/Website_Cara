@@ -117,6 +117,12 @@
                 </div>
             </div>
         </div>
+
+
+        <div class="card p-3 mb-3 " style="background-color: gainsboro !important;">
+              <div class="row justify-content-center">
+              <img src="images/logoecole2.png" alt="Logo ENSC" class="" width="100%" heigth="100%" >
+              </div>
     </div>
 
 

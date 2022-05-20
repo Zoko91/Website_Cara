@@ -46,7 +46,7 @@
               Au-delà de tous les acquis pédagogiques que nous avons pu acquérir et qui nous seront utiles dans notre formation (gestion de projet, réalisation de questionnaires…), nous avons également pu mettre un pied dans l’univers de la recherche. Mener des études, établir des postulats, analyser des données, toutes ces activités consistent en une entrée efficace dans ce domaine.
             </p>
             <p>
-            En somme, ce projet a été pour nous une vraie mine d’or, nous permettant de faire appel à beaucoup de connaissances emmagasinées tout au long de l’année 2021/2022, mais aussi de découvrir de nouvelles choses qui pourront à coup sûr servir à certains membres s’ils poursuivent leurs études sur cette voix.
+            En somme, ce projet a été pour nous une vraie mine d’or, nous permettant de faire appel à beaucoup de connaissances emmagasinées tout au long de l’année 2021/2022, mais aussi de découvrir de nouvelles choses qui pourront à coup sûr servir à certains membres s’ils poursuivent leurs études sur cette voie.
     </p>
     </div>
           </div>
@@ -78,7 +78,7 @@
 
           <div class="card p-3 border-success mb-3 ">
               <div class="row justify-content-center">
-                  <img class="card-img-top" src="images/logoecole.png" alt="Logo de l'école"style="width:50%;heigth:50%">
+                  <img class="card-img-top" src="images/logoecole2.png" alt="Logo de l'école"style="width:50%;heigth:50%">
               </div>
     </div>
         
