@@ -23,8 +23,8 @@
             Le premier clavier, appelé “Clavier célébrités”, présente des lettres blanches sur fond noir, et lorqu’une colonne ou une 
             ligne s’active, le visage d’une célébrité apparait. Nous avons ici choisi Obama, dont le visage est connu, reconnaissable 
             et qui a été utilisé dans les protocoles de certains articles étudiés dans l’état de l’art. En nous basant sur l’étude  
-            de Li et al. (2020), nous avons coloré cette image en rouge, afin d’optimiser les performances. De même, selon l’étude de 
-            Zhang et al. (2021), les résultats sont meilleurs lorsque le fond de l’image est blanc. Ainsi, nous avons opté pour un 
+            de <a class="lien" style="color:white" href='etatart.php?page=bibli'>Li et al. (2020)</a>, nous avons coloré cette image en rouge, afin d’optimiser les performances. De même, selon l’étude de 
+            <a class="lien" style="color:white" href='etatart.php?page=bibli'>Zhang et al. (2021)</a>, les résultats sont meilleurs lorsque le fond de l’image est blanc. Ainsi, nous avons opté pour un 
             visage d’Obama rouge sur fond blanc, comme stimulus.
         </p>
         
@@ -34,7 +34,7 @@
         <p>
             Le second clavier, appelé “Clavier images neutres”, présente des lettres blanches sur fond noir, et lorqu’une colonne ou 
             une ligne s’active, des images neutres apparaissent. Ce clavier est basé sur celui utilisé lors de l’étude de 
-            Fernández-Rodríguez et al. (2019). Les images proviennent de la base de données IAPS (International Affective Picture 
+            <a class="lien" style="color:white" href='etatart.php?page=bibli'>Fernández-Rodríguez et al. (2019)</a>. Les images proviennent de la base de données IAPS (International Affective Picture 
             System) qui a été conçue pour fournir un ensemble standardisé d'images pour étudier les émotions.<br/>
             Ces deux claviers comportent 5 lignes et 5 colonnes, et donc 25 caractères. Nous avons choisi de conserver les lettres 
             de l’alphabet, dans l’ordre alphabétique, en retirant le z. Nous avons fait ce choix, pour que la taille des images soit 
