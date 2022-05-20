@@ -76,15 +76,12 @@
             </blockquote>
           </div>
 
-          <div class="card" style="background-color:rgb(35,33,33)">
-          <p> </p>
-        </div>
-        <div class="card" style="background-color:rgb(35,33,33)">
-          <p> </p>
-        </div>
-        <div class="card" style="background-color:rgb(35,33,33)">
-          <p> </p>
-        </div>
+          <div class="card p-3 border-success mb-3 ">
+              <div class="row justify-content-center">
+                  <img class="card-img-top" src="images/logoecole.png" alt="Logo de l'école"style="width:50%;heigth:50%">
+              </div>
+    </div>
+        
         <div class="card" style="background-color:rgb(35,33,33)">
           <p> </p>
         </div>
