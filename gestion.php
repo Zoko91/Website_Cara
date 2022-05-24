@@ -79,7 +79,7 @@
         <br>
 
         <div class="col-8">
-            <img src="images/planning2.png" alt="Planning du projet" width="100%" height="100%">
+            <img src="images/newplanning.png" alt="Planning du projet" width="100%" height="100%">
         </div>
         <div class="col-1 pr-0">
             <h6>Légende:</h6>
