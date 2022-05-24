@@ -108,8 +108,10 @@
     </div>
     <br>
     <br>
-    <div class="container text-center">
+    <div class="container text-center d-flex justify-content-around">
         <a href="gestion_projet.pdf" class="btn btn-sm btn-outline-danger" role="button" aria-pressed="true" target="_blank">Télécharger la fiche de gestion de projet</a>
+        <a href="images/matrice.pdf" class="btn btn-sm btn-outline-danger" role="button" aria-pressed="true" target="_blank">Télécharger la matrice d'implication</a>
+
     </div>
     <br>
 </div>
