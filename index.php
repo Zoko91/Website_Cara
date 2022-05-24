@@ -16,7 +16,7 @@
 <br>
 <br>
 
-<div  class=container>
+<div class=container>
     <!--
     <div style = "width:800px; text-align:center ; margin:auto ;display:flex" id="carouselExampleControls" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
@@ -120,13 +120,12 @@
 
 
         <div class="card p-3 mb-3 " style="background-color: gainsboro !important;">
-              <div class="row justify-content-center">
-              <img src="images/logoecole2.png" alt="Logo ENSC" class="" width="100%" heigth="100%" >
-              </div>
+            <div class="row justify-content-center">
+                <img src="images/logoecole2.png" alt="Logo ENSC" class="" width="100%" heigth="100%" >
+            </div>
+        </div>
+
+    </div>
     </div>
 
-
-
-</div>
-
-<?php include("footer.php") ?>
+    <?php include("footer.php") ?>
